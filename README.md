@@ -27,7 +27,7 @@ Certifique-se de ter o ambiente de desenvolvimento React Native configurado. Se 
 
 ### Passo 1: Iniciar o Servidor Metro
 Primeiramente, é necessário iniciar o Metro, o bundler JavaScript que acompanha o React Native. Abra um terminal no diretório raiz do seu projeto e execute o seguinte comando:
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ```bash
 # usando npm
 npm start
@@ -52,13 +52,13 @@ npm run ios
 # OU usando Yarn
 yarn ios
 ```
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Se tudo estiver configurado corretamente, você deverá ver seu novo aplicativo rodando no Emulador Android ou Simulador iOS em breve, desde que o emulador/simulador esteja configurado corretamente.
 
 
 Esta é uma maneira de rodar o aplicativo. Você também pode executá-lo diretamente pelo Android Studio e Xcode, respectivamente.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Passo 3: Modificar o Aplicativo
 Agora que você executou e iniciou o aplicativo, pode fazer modificações nele.
 
