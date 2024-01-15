@@ -21,7 +21,7 @@ Disciplina: Nível 1 – Vamos criar um App
 
 # Fornecedores App - React Native
 Este é um projeto React Native de exemplo para gerenciamento de fornecedores, incluindo funcionalidades de cadastro, edição, exclusão e listagem. Abaixo estão instruções básicas sobre como rodar o aplicativo.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Como Executar
 Certifique-se de ter o ambiente de desenvolvimento React Native configurado. Se necessário, siga as instruções de configuração do React Native - Environment Setup até a etapa "Creating a new application".
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
