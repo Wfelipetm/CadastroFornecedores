@@ -1,15 +1,15 @@
-Fornecedores App - React Native
+# Fornecedores App - React Native
 Este é um projeto React Native de exemplo para gerenciamento de fornecedores, incluindo funcionalidades de cadastro, edição, exclusão e listagem. Abaixo estão instruções básicas sobre como rodar o aplicativo.
 
-Como Executar
+## Como Executar
 Certifique-se de ter o ambiente de desenvolvimento React Native configurado. Se necessário, siga as instruções de configuração do React Native - Environment Setup até a etapa "Creating a new application".
 
-Passo 1: Iniciar o Servidor Metro
+## Passo 1: Iniciar o Servidor Metro
 Primeiramente, é necessário iniciar o Metro, o bundler JavaScript que acompanha o React Native. Abra um terminal no diretório raiz do seu projeto e execute o seguinte comando:
-
+```bash
 # usando npm
 npm start
-
+```bash
 # OU usando Yarn
 yarn start
 
