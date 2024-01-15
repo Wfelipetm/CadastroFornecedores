@@ -11,8 +11,8 @@ Este é um projeto React Native para gerenciamento de fornecedores, incluindo fu
 Certifique-se de ter o ambiente de desenvolvimento React Native configurado. Se necessário, siga as instruções de configuração do React Native - Environment Setup até a etapa "Creating a new application".
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Passo 1: Iniciar o Servidor Metro
-Primeiramente, é necessário iniciar o Metro, o bundler JavaScript que acompanha o React Native. Abra um terminal no diretório raiz do seu projeto e execute o seguinte comando:
+### Passo 1: Iniciar o Servidor 
+Primeiramente, abra um terminal no diretório raiz do seu projeto e execute o seguinte comando:
 
 ```bash
 # usando npm
@@ -24,7 +24,7 @@ yarn start
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Passo 2: Iniciar a Aplicação
-Enquanto o Metro estiver em execução, abra um novo terminal no diretório raiz do seu projeto. Execute o seguinte comando para iniciar o aplicativo no Android ou iOS:
+Abra um novo terminal no diretório raiz do seu projeto. Execute o seguinte comando para iniciar o aplicativo no Android ou iOS:
 ```bash
 # usando npm
 npm run android
@@ -40,7 +40,7 @@ npm run ios
 yarn ios
 ```
 
-Se tudo estiver configurado corretamente, você deverá ver seu novo aplicativo rodando no Emulador Android ou Simulador iOS em breve, desde que o emulador/simulador esteja configurado corretamente.
+Se tudo estiver configurado corretamente, você deverá ver seu novo aplicativo rodando no Emulador Android ou Simulador iOS, desde que o emulador/simulador esteja configurado corretamente.
 
 
 Esta é uma maneira de rodar o aplicativo. Você também pode executá-lo diretamente pelo Android Studio e Xcode, respectivamente.
@@ -50,7 +50,7 @@ Esta é uma maneira de rodar o aplicativo. Você também pode executá-lo direta
 Agora que você executou e iniciou o aplicativo, pode fazer modificações nele.
 
 
-Abra App.tsx no seu editor de texto preferido e edite algumas linhas.
+Abra App.js no seu editor de texto preferido e edite algumas linhas.
 
 
 Para Android: Pressione a tecla <kbd>R</kbd> duas vezes ou selecione "Reload" no Developer Menu (<kbd>Ctrl</kbd> + <kbd>M</kbd> (no Windows e Linux) ou <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (no macOS)) para ver suas alterações!
