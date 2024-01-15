@@ -70,31 +70,7 @@ Para iOS: Pressione <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> no seu Simulador iOS para 
 
 ### Parabéns! :tada:
 
-Você executou e modificou com sucesso seu aplicativo React Native. :partying_face:
 
-### E agora?
-
-Se você deseja adicionar este novo código React Native a um aplicativo existente, consulte o Guia de Integração.
-
-Se você está curioso para aprender mais sobre o React Native, confira a Introdução ao React Native.
-
-Solução de Problemas
-
-Se você encontrar problemas, consulte a página de Solução de Problemas.
-
-### Saiba Mais
-
-Para aprender mais sobre o React Native, confira os seguintes recursos:
-
-Site do React Native - saiba mais sobre o React Native.
-
-Getting Started - uma visão geral do React Native e como configurar seu ambiente.
-
-Learn the Basics - um tour guiado dos fundamentos do React Native.
-
-Blog - leia as últimas postagens oficiais no Blog do React Native.
-
-@facebook/react-native - o repositório GitHub de código aberto do React Native.
 
 
 
