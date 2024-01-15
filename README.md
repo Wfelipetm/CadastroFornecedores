@@ -35,7 +35,7 @@ npm start
 # OU usando Yarn
 yarn start
 ```
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Passo 2: Iniciar a Aplicação
 Enquanto o Metro estiver em execução, abra um novo terminal no diretório raiz do seu projeto. Execute o seguinte comando para iniciar o aplicativo no Android ou iOS:
 ```bash
