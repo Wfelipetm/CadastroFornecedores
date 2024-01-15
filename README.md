@@ -1,7 +1,26 @@
+## Com![estacio-logo-0](https://github.com/Wfelipetm/CadastroFornecedores/assets/108297008/d779f309-2a2c-4ca5-800c-9402c085f227)
+
+
+Nome: Wallace Felipe Tavares Moreira
+
+Matrícula: 202109237331 
+
+Universidade: UNIVERSIDADE ESTÁCIO DE SÁ 
+
+Curso: Desenvolvimento Full Stack 
+
+Campus: Jardim América – Itaguaí/RJ 
+
+Disciplina: Nível 1 – Vamos criar um App
+
+
+
+
 # Fornecedores App - React Native
 Este é um projeto React Native para gerenciamento de fornecedores, incluindo funcionalidades de cadastro, edição, exclusão e listagem. Abaixo estão instruções básicas sobre como rodar o aplicativo.
 
-## Como Executar
+
+o Executar
 Certifique-se de ter o ambiente de desenvolvimento React Native configurado. Se necessário, siga as instruções de configuração do React Native - Environment Setup até a etapa "Creating a new application".
 
 ### Passo 1: Iniciar o Servidor Metro
