@@ -1,20 +1,5 @@
 
-![images](https://github.com/Wfelipetm/CadastroFornecedores/assets/108297008/107565f0-8f51-4d2b-9db7-c052567f898d)
 
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Nome: Wallace Felipe Tavares Moreira
-
-Matrícula: 202109237331 
-
-Universidade: UNIVERSIDADE ESTÁCIO DE SÁ 
-
-Curso: Desenvolvimento Full Stack 
-
-Campus: Jardim América – Itaguaí/RJ 
-
-Disciplina: Nível 1 – Vamos criar um App
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
